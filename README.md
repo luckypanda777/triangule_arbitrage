@@ -1,2 +1,4 @@
-# triangule_arbitrage
-Bot
+<h1>Triangular Arbitrage Bot</h1>
+
+DEX Triangle Arbitrage Bot
+
